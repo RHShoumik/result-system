@@ -1,0 +1,14 @@
+* {
+	font-family: tahoma;
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	margin: 100px;
+}
+
+
+input, button {
+	padding: 10px;
+}
